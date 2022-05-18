@@ -1,0 +1,452 @@
+
+.ProfileUser_ProfileUser {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 1650px;
+	background : rgb(255, 255, 255);
+	box-sizing: border-box;
+}
+.ProfileUser_ProfileUser .charmphonecall {
+	position: absolute;
+	left: 0px;
+	top: 80px;
+	width: 16px;
+	height: 16px;
+}
+.ProfileUser_ProfileUser .charmphonecall .Vector {
+	position: absolute;
+	left: 1.75px;
+	top: 1.75px;
+	width: 78.125%;
+	height: 78.125%;
+}
+.ProfileUser_ProfileUser .Vectors {
+	position: absolute;
+	left: 0px;
+	top: 80px;
+	width: 100px;
+	height: 1500px;
+	mix-blend-mode: normal;
+}
+.ProfileUser_ProfileUser .Vectors .Vector_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100px;
+	height: 1500px;
+}
+.ProfileUser_ProfileUser .Vectors .Vector_2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100px;
+	height: 1500px;
+}
+.ProfileUser_ProfileUser .Vectors_1 {
+	position: absolute;
+	right: 0px;
+	top: 80px;
+	width: 100px;
+	height: 1500px;
+	mix-blend-mode: normal;
+}
+.ProfileUser_ProfileUser .Vectors_1 .Vector_3 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100px;
+	height: 1500px;
+}
+.ProfileUser_ProfileUser .Vectors_1 .Vector_4 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100px;
+	height: 1500px;
+}
+
+
+.ProfileUser_ProfileUser .Image {
+	position: absolute;
+	left: 50%;
+	transform:translate(-110%);
+	top: 150px;
+	width: 400 px;
+	height: 400 px;
+	border: 5px;
+	border-color: black;
+}
+
+.ProfileUser_ProfileUser .Name {
+	position: absolute;
+	left: 50%;
+	transform:translate(8%);
+	top: 300px;
+	width: 500px;
+	height: 68px;
+	color : rgba(0,0,0,1);
+	font-family: Oxygen;
+	font-size: 38px;
+	font-weight: 700;
+	line-height: 40px;
+	text-align: left;
+}
+
+.ProfileUser_ProfileUser .Email {
+	position: absolute;
+	left: 50%;
+	transform:translate(9%);
+	top: 400px;
+	width: 500px;
+	height: 68px;
+	color : rgba(0,0,0,1);
+	font-family: Oxygen;
+	font-size: 24px;
+	font-weight: lighter;
+	line-height: 24px;
+	text-decoration: underline;
+}
+.ProfileUser_ProfileUser .Line8 {
+	position: relative;
+	left: 50%;
+	transform:translate(-50%);
+	top: 575px;
+	width: 970px;
+	height: 5px;
+}
+
+.ProfileUser_ProfileUser .carbonphonevoice {
+	position: absolute;
+	left: 50%;
+	transform:translate(-196%);
+	top: 625px;
+	width: 129px;
+	height: 137px;
+}
+.ProfileUser_ProfileUser .carbonphonevoice .Vector_6 {
+	position: absolute;
+	left: 76.59375px;
+	top: 34.25px;
+	width: 15.625%;
+	height: 15.625%;
+}
+.ProfileUser_ProfileUser .carbonphonevoice .Vector_7 {
+	position: absolute;
+	left: 12.0582275390625px;
+	top: 12.84375px;
+	width: 81.27772604772287%;
+	height: 81.25%;
+}
+.ProfileUser_ProfileUser .Kontak {
+	position: absolute;
+	left: 50%;
+	transform:translate(-30%);
+	top: 650px;
+	width: 252px;
+	height: 68px;
+	color : rgba(0,0,0,1);
+	font-family: Oxygen;
+	font-size: 24px;
+	font-weight: 300;
+	line-height: 24px;
+}
+.ProfileUser_ProfileUser .kontak_user {
+	position: absolute;
+	left: 50%;
+	transform:translate(-20%);
+	top: 690px;
+	width: 376px;
+	height: 68px;
+	color : rgba(0,0,0,1);
+	font-family: Oxygen;
+	font-size: 38px;
+	font-weight: 700;
+	line-height: 40px;
+}
+
+.ProfileUser_ProfileUser .makicollege {
+	position: absolute;
+	left: 50%;
+	transform:translate(-160%);
+	top: 800px;
+	width: 156px;
+	height: 137px;
+}
+.ProfileUser_ProfileUser .makicollege .Vector_9 {
+	position: absolute;
+	left: 0px;
+	top: 9.13330078125px;
+	width: 100%;
+	height: 86.6667141879562%;
+}
+.ProfileUser_ProfileUser .Fakultas {
+	position: absolute;
+	left: 50%;
+	transform:translate(-55%);
+	top: 825px;
+	width: 132px;
+	height: 68px;
+	color : rgba(0,0,0,1);
+	font-family: Oxygen;
+	font-size: 24px;
+	font-weight: 300;
+	line-height: 24px;
+}
+.ProfileUser_ProfileUser .Fakultas_User {
+	position: absolute;
+	left: 50%;
+	transform:translate(-15%);
+	top: 865px;
+	width: 500px;
+	height: 68px;
+	color : rgba(0,0,0,1);
+	font-family: Oxygen;
+	font-size: 38px;
+	font-weight: 700;
+	line-height: 40px;
+}
+
+.ProfileUser_ProfileUser .faregularaddressbook {
+	position: absolute;
+	left: 50%;
+	transform:translate(-190%);
+	top: 1000px;
+	width: 129px;
+	height: 137px;
+}
+.ProfileUser_ProfileUser .faregularaddressbook .Vector_8 {
+	position: absolute;
+	left: 50%;
+	transform:translate(-40%);
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.ProfileUser_ProfileUser .NPM {
+	position: absolute;
+	left: 50%;
+	transform:translate(-100%);
+	top: 1025px;
+	width: 75px;
+	height: 68px;
+	color : rgba(0,0,0,1);
+	font-family: Oxygen;
+	font-size: 24px;
+	font-weight: 300;
+	line-height: 24px;
+}
+.ProfileUser_ProfileUser .NPM_User {
+	position: absolute;
+	left: 50%;
+	transform:translate(-20%);
+	top: 1065px;
+	width: 365px;
+	height: 114px;
+	color : rgba(0,0,0,1);
+	font-family: Oxygen;
+	font-size: 38px;
+	font-weight: 700;
+	line-height: 40px;
+}
+
+.ProfileUser_ProfileUser .Vector_13 {
+	position: absolute;
+	left: 50%;
+	transform:translate(-200%);
+	top: 1200px;
+	width: 115px;
+	height: 145px;
+}
+.ProfileUser_ProfileUser .Angkatan {
+	position: absolute;
+	left: 50%;
+	transform:translate(-50%);
+	top: 1225px;
+	width: 155px;
+	height: 68px;
+	color : rgba(0,0,0,1);
+	font-family: Oxygen;
+	font-size: 24px;
+	font-weight: 300;
+	line-height: 24px;
+}
+.ProfileUser_ProfileUser .Angkatan_User {
+	position: absolute;
+	left: 50%;
+	transform:translate(-60%);
+	top: 1265px;
+	width: 126px;
+	height: 114px;
+	color : rgba(0,0,0,1);
+	font-family: Oxygen;
+	font-size: 38px;
+	font-weight: 700;
+	line-height: 40px;
+}
+
+
+.ProfileUser_ProfileUser .Group239 {
+	position: absolute;
+	left: 50%;
+	transform:translate(30%);
+	top: 1400px;
+	width: 377.3792724609375px;
+	height: 50px;
+}
+.ProfileUser_ProfileUser .Group239 .Group294 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 377.3792724609375px;
+	height: 50px;
+}
+.ProfileUser_ProfileUser .Group239 .Group294 .Group293 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 377.3792724609375px;
+	height: 50px;
+}
+.ProfileUser_ProfileUser .Group239 .Group294 .Group293 .Rectangle13 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 377.3792724609375px;
+	height: 50px;
+	background : rgba(0,180.00000447034836,215.0000023841858,1);
+	border-radius: 10px;
+}
+.ProfileUser_ProfileUser .Group239 .Group294 .Group291 {
+	position: absolute;
+	left: 125px;
+	top: 14.1669921875px;
+	width: 190.077880859375px;
+	height: 21.66650390625px;
+}
+.ProfileUser_ProfileUser .Group239 .Group294 .Group291 .EditProfile {
+	position: absolute;
+	left: 43.0469970703125px;
+	top: 4.8330078125px;
+	width: 147.0308837890625px;
+	height: 14px;
+	color : rgba(255,255,255,1);
+	font-family: Oxygen;
+	font-size: 16px;
+	font-weight: 700;
+	line-height: 16px;
+}
+.ProfileUser_ProfileUser .Group239 .Group294 .Group291 .akariconsedit {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 30.3773193359375px;
+	height: 21.66650390625px;
+}
+.ProfileUser_ProfileUser .Group239 .Group294 .Group291 .akariconsedit .Group {
+	position: absolute;
+	left: 5.0628662109375px;
+	top: 2.70849609375px;
+	width: 70.83234545973293%;
+	height: 70.83361503617066%;
+}
+.ProfileUser_ProfileUser .Group239 .Group294 .Group291 .akariconsedit .Group .Vector_10 {
+	position: absolute;
+	left: 8.8599853515625px;
+	top: 0px;
+	width: 58.823262437098265%;
+	height: 58.824090865705834%;
+}
+.ProfileUser_ProfileUser .Group239 .Group294 .Group291 .akariconsedit .Group .Vector_11 {
+	position: absolute;
+	left: 0px;
+	top: 1.80517578125px;
+	width: 88.23659561914596%;
+	height: 88.23454551239223%;
+}
+.ProfileUser_ProfileUser .Group323 {
+	position: absolute;
+	left: 1114px;
+	top: 137px;
+	width: 200px;
+	height: 50px;
+}
+.ProfileUser_ProfileUser .Group323 .Group384 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 200px;
+	height: 50px;
+}
+.ProfileUser_ProfileUser .Group323 .Group384 .Group385 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 200px;
+	height: 50px;
+}
+.ProfileUser_ProfileUser .Group323 .Group384 .Group385 .Group239_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 200px;
+	height: 50px;
+}
+.ProfileUser_ProfileUser .Group323 .Group384 .Group385 .Group239_1 .Group294_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 200px;
+	height: 50px;
+}
+.ProfileUser_ProfileUser .Group323 .Group384 .Group385 .Group239_1 .Group294_1 .Group293_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 200px;
+	height: 50px;
+}
+.ProfileUser_ProfileUser .Group323 .Group384 .Group385 .Group239_1 .Group294_1 .Group293_1 .Rectangle13_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 200px;
+	height: 50px;
+	background : rgba(0,180.00000447034836,215.0000023841858,1);
+	border-radius: 10px;
+}
+.ProfileUser_ProfileUser .Group323 .Group384 .Group385 .Group322 {
+	position: absolute;
+	left: 31px;
+	top: 18.00048828125px;
+	width: 138.29473876953125px;
+	height: 19.71435546875px;
+}
+.ProfileUser_ProfileUser .Group323 .Group384 .Group385 .Group322 .Group321 {
+	position: absolute;
+	left: 38px;
+	top: 0px;
+	width: 100.29473876953125px;
+	height: 13.333251953125px;
+}
+.ProfileUser_ProfileUser .Group323 .Group384 .Group385 .Group322 .Group321 .Kembali {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100.29473876953125px;
+	height: 13.333251953125px;
+	color : rgba(255,255,255,1);
+	font-family: Oxygen;
+	font-size: 16px;
+	font-weight: 700;
+	line-height: 16px;
+}
+.ProfileUser_ProfileUser .Group323 .Group384 .Group385 .Group322 .Vector_12 {
+	position: absolute;
+	left: 0px;
+	top: 1.87158203125px;
+	width: 20.246612596493723%;
+	height: 90.50650154798761%;
+}

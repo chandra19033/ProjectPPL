@@ -1,0 +1,198 @@
+.SigninAdmin_SigninAdmin {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100%;
+	background : rgba(255,255,255,1);
+}
+
+.SigninAdmin_SigninAdmin .Group220 .Rectangle6 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 650px;
+	height: 600px;
+	background : rgba(34.00000177323818,73.00000324845314,87.00000241398811,1);
+}
+.SigninAdmin_SigninAdmin .Group220 .Vectors {
+	position: absolute;
+	left: 0px;
+	top: 520px;
+	width: 50%;
+	height: 80px;
+}
+.SigninAdmin_SigninAdmin .Group220 .Vectors .Vector {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 650px;
+	height: 80px;
+}
+.SigninAdmin_SigninAdmin .Group220 .Vectors .Vector_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 650px;
+	height: 80px;
+}
+
+.SigninAdmin_SigninAdmin .Vectors_1 {
+	position: absolute;
+	left: 0px;
+	top: -2.1448974609375px;
+	width: 50%;
+	height: 80px;
+}
+.SigninAdmin_SigninAdmin .Vectors_1 .Vector_2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 650px;
+	height: 80px;
+}
+.SigninAdmin_SigninAdmin .Vectors_1 .Vector_3 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 650px;
+	height: 80px;
+}
+
+.SigninAdmin_SigninAdmin .Group220 .AndaharusLoginuntukmelakukanpendaftaranUKM {
+	position: absolute;
+	left: 700px;
+	top: 210px;
+	width: 498.548828125px;
+	height: 60px;
+	color : rgba(34.00000177323818,73.00000324845314,87.00000241398811,1);
+	font-family: Lexend Deca;
+	font-size: 24px;
+	font-weight: 500;
+	line-height: 28.125px;
+	text-align: center;
+}
+
+.SigninAdmin_SigninAdmin .Loginbtn {
+	position: absolute;
+	left: 750px;
+	top: 460px;
+	width: 400px;
+	height: 54.13525390625px;
+	box-shadow: 100px;
+}
+.SigninAdmin_SigninAdmin .Loginbtn .Rectangle {
+	position: absolute;
+	left: 125px;
+	top: 0px;
+	width: 400px;
+	height: 54.13525390625px;
+	background : rgba(32.00000189244747,223.00000190734863,127.00000002980232,1);
+	border-radius: 10px;
+	border-color: azure;
+}
+.SigninAdmin_SigninAdmin .Loginbtn .login {
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%,-50%);
+	width: 51.608154296875px;
+	height: 24.06005859375px;
+	color : rgba(255,255,255,1);
+	font-family: Lexend Deca;
+	font-size: 20px;
+	font-weight: 400;
+	line-height: 20px;
+	font-weight: bold;
+}
+.SigninAdmin_SigninAdmin .Password {
+	position: absolute;
+	left: 750px;
+	top: 370px;
+	width: 351.873291015625px;
+	height: 54.13525390625px;
+}
+
+
+.SigninAdmin_SigninAdmin .Username {
+	position: absolute;
+	left: 750px;
+	top: 300px;
+	width: 351.873291015625px;
+	height: 54.13525390625px;
+}
+
+.SigninAdmin_SigninAdmin .Username .NamaUKM {
+	position: absolute;
+	left: 25px;
+	top: 15px;
+	width: 89px;
+	height: 24px;
+	color : rgba(255,255,255,1);
+	font-family: Lexend Deca;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 20px;
+}
+.SigninAdmin_SigninAdmin .SigninAkunAdmin {
+	position: absolute;
+	left: 720px;
+	top: 30px;
+	width: 450px;
+	height: 111px;
+	color : rgba(34.00000177323818,73.00000324845314,87.00000241398811,1);
+	font-family: Lexend Deca;
+	font-size: 80px;
+	font-weight: 400;
+	line-height: 80px;
+	text-align: center;
+	font-weight: bold;
+}
+
+.SigninAdmin_SigninAdmin .Input_Form {
+	position: absolute;
+	padding: 12px 20px;
+	left: 0px;
+	top: 0px;
+	width: 400px;
+	height: 54.13525390625px;
+	background : rgba(34.00000177323818,73.00000324845314,87.00000241398811,1);
+	border-radius: 10px;
+	color: azure;
+	font-size: 18px;
+	font-family: Oxygen;
+	
+}
+.Input_Form::-webkit-input-placeholder{
+	color: rgb(196, 207, 207);
+}
+
+.SigninAdmin_SigninAdmin .Group230 {
+	position: absolute;
+	left: 183px;
+	top: 130px;
+	width: 550px;
+	height: 451px;
+}
+.SigninAdmin_SigninAdmin .Group230 .PlatformUKMUnpad {
+	position: absolute;
+	left: -75px;
+	top: 300px;
+	width: 550px;
+	height: 65px;
+	color : rgba(0,180.00000447034836,215.0000023841858,1);
+	font-family: Lexend Deca;
+	font-size: 42px;
+	font-weight: 400;
+	line-height: 56.25px;
+}
+.SigninAdmin_SigninAdmin .Group230 .logo {
+	position: absolute;
+	left: -80px;
+	top: -30px;
+	width: 400px;
+	height: 300px;
+	object-fit: cover;
+	overflow: hidden;
+}

@@ -1,0 +1,128 @@
+.Row {
+	position: absolute;
+	/* align-self: center;
+	align-items: center; */
+	left: 125px;
+	top: 1880px;
+	width: 1000px;
+	height: 444.16650390625px;
+	
+}
+
+.Group334 .Group327 {
+	position: absolute;
+	left: 100px;
+	top: 20px;
+	width: 350px;
+	height: 444.16650390625px;
+    /* border-radius: 5px;
+    margin-bottom : 5px; */
+}
+.Row .Card {
+	position: relative;
+	
+	width: 325px;
+	height: 444.16650390625px;
+	background : rgba(34.00000177323818,73.00000324845314,87.00000241398811,1);
+	border-radius: 5px;
+}
+.Group334 .Group327 .Group325_1 {
+	position: absolute;
+	left: 31.670166015625px;
+	top: 27.63671875px;
+	width: 308.318603515625px;
+	height: 393.06396484375px;
+}
+
+
+
+.Row .Card .Image {
+	position: absolute;
+	left: 28px;
+	top: 25px;
+	width: 270px;
+	height: 225px;
+	/* object-fit: cover; */
+	overflow: hidden;
+	border-radius: 5px;
+}
+
+.Row .Card .Body {
+	position: relative;
+	top: 250px;
+	left: 10px;
+	width: 270px;
+	
+}
+
+.Row .Card .Body .Subject{
+	position: relative;
+	width: 270px;
+	color : rgba(255,255,255,1);
+	font-family: Oxygen;
+	text-decoration: underline;
+	text-decoration-color: rgba(34.00000177323818,73.00000324845314,87.00000241398811,1);
+	font-size: 20px;
+	
+}
+
+.Row .Card .Body .Name{
+	position: relative;
+	top: 10px;
+	width: 270px;
+	color : rgba(255,255,255,1);
+	font-family: Oxygen;
+	text-decoration: underline;
+	text-decoration-color: rgba(34.00000177323818,73.00000324845314,87.00000241398811,1);
+	font-size: 16px;
+	
+}
+
+.Row .Card .Body .Date{
+	position: absolute;
+	top: 150px;
+	width: 270px;
+	color : rgba(255,255,255,1);
+	font-family: Oxygen;
+	text-decoration: underline;
+	text-decoration-color: rgba(34.00000177323818,73.00000324845314,87.00000241398811,1);
+	font-size: 16px;
+	
+}
+
+.Group334 .Group327 .Group325_1 .UnitTaekwondoUnpadberhasilmeraihperunggudiGaneshaCup2022_2 {
+	position: absolute;
+	left: 0px;
+	top: 231.95361328125px;
+	width: 299.935302734375px;
+	height: 79.3203125px;
+	color : rgba(255,255,255,1);
+	font-family: Oxygen;
+	font-size: 20px;
+	font-weight: 700;
+	line-height: 20px;
+}
+.Group334 .Group327 .Group325_1 .UnitTaekwondoUnpad_2 {
+	position: absolute;
+	left: 0px;
+	top: 343.48876953125px;
+	width: 195.60986328125px;
+	height: 13.880859375px;
+	color : rgba(255,255,255,1);
+	font-family: Oxygen;
+	font-size: 14px;
+	font-weight: 700;
+	line-height: 14px;
+}
+.Group334 .Group327 .Group325_1 .Jumat25Maret2022_2 {
+	position: absolute;
+	left: 0px;
+	top: 379.18310546875px;
+	width: 178.84326171875px;
+	height: 13.880859375px;
+	color : rgba(255,255,255,1);
+	font-family: Oxygen;
+	font-size: 14px;
+	font-weight: 700;
+	line-height: 14px;
+}

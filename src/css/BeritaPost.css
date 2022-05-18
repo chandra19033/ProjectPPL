@@ -1,0 +1,130 @@
+.Frame338_2 {
+	position: relative;
+	/* left: 160px; */
+	/* left: 50%;
+	transform: translate(-50%); */
+	/* top: 350px; */
+	width: 1120px;
+	/* height: 350px; */
+    
+	display: flex;
+    flex: 1;
+    border-radius: 5px;
+    margin-bottom : 5px;
+	/* flex-direction: column; */
+	box-sizing: border-box;
+}
+.Frame338_2 .Alltickets_3 {
+	position: relative;
+	margin-bottom: 10px;
+	width: 1000px;
+	height: 350px;
+	/* border-radius: 10px;
+	border: 1px solid rgba(255,255,255,1); */
+}
+.Frame338_2 .Alltickets_3 .cardsdefault_3 {
+	position: absolute;
+	left: 50px;
+	top: -2.353515625px;
+	width: 1000px;
+	height: 350.35400390625px;
+}
+.Frame338_2 .Alltickets_3 .cardsdefault_3 .sheet_3 {
+	position: absolute;
+	left: 0px;
+	top: 2.353515625px;
+	width: 1000px;
+	height: 350.353515625px;
+	background : rgba(34.00000177323818,73.00000324845314,87.00000241398811,1);
+	border-radius: 10px;
+	border: 3px solid rgba(0,0,0,1);
+	box-sizing: border-box;
+}
+.Frame338_2 .Alltickets_3 .cardsdefault_3 .Group362_3 {
+	position: absolute;
+	left: 45.99951171875px;
+	top: 42.97705078125px;
+	width: 1000px;
+	height: 262.7451171875px;
+}
+.Frame338_2 .Alltickets_3 .cardsdefault_3 .Group362_3 .Group337_3 {
+	position: absolute;
+	left: 679.154541015625px;
+	top: 0.244140625px;
+	width: 348.9990234375px;
+	height: 262.5px;
+}
+.Frame338_2 .Alltickets_3 .cardsdefault_3 .Group362_3 .Group337_3 .Group361_3 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 348.9990234375px;
+	height: 262.5px;
+}
+.Frame338_2 .Alltickets_3 .cardsdefault_3 .Group362_3 .Group337_3 .Group361_3 .Rectangle26_3 {
+	position: absolute;
+	left: -80px;
+	top: 0.154296875px;
+	width: 348.7606201171875px;
+	height: 262.19091796875px;
+	background : rgba(255,255,255,1);
+}
+.Frame338_2 .Alltickets_3 .cardsdefault_3 .Group362_3 .Group337_3 .Group361_3 .ImageArticle {
+	position: absolute;
+	left: -55px;
+	top: 25.02880859375px;
+	width: 300px;
+	height: 210px;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 5px;
+}
+.Frame338_2 .Alltickets_3 .cardsdefault_3 .Group362_3 .Title {
+	position: absolute;
+	left: 0.18115234375px;
+	top: 33.3759765625px;
+	width: 626.0003662109375px;
+	height: 80.0009765625px;
+	color : rgba(255,255,255,1);
+	font-family: Oxygen;
+	font-size: 26px;
+	font-weight: 700;
+	line-height: 26px;
+}
+.Frame338_2 .Alltickets_3 .cardsdefault_3 .Group362_3 .UKM_Name {
+	position: absolute;
+	left: 0.153076171875px;
+	top: 0.24169921875px;
+	width: 456px;
+	height: 14.0009765625px;
+	color : rgba(255,255,255,1);
+	font-family: Oxygen;
+	font-size: 16px;
+	font-weight: 700;
+	line-height: 16px;
+}
+.Frame338_2 .Alltickets_3 .cardsdefault_3 .Group362_3 .Date {
+	position: absolute;
+	left: 0.154541015625px;
+	top: 248.3759765625px;
+	width: 456px;
+	height: 14.0009765625px;
+	color : rgba(255,255,255,1);
+	font-family: Oxygen;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 16px;
+}
+.Frame338_2 .Alltickets_3 .cardsdefault_3 .Group362_3 .Content {
+	position: absolute;
+	left: 0.153564453125px;
+	top: 113.24169921875px;
+	width: 570px;
+	height: 121.0009765625px;
+	color : rgba(255,255,255,1);
+	font-family: Oxygen;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 16px;
+}
+

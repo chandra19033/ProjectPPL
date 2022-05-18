@@ -1,0 +1,231 @@
+.Navbar {
+	position: fixed;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	/* height: 2021px; */
+	background : rgba(255,255,255,1);
+	z-index: 100;
+	/* border: 1px solid rgba(0,0,0,1); */
+	/* box-sizing: border-box; */
+}
+
+.Navbar .ColorsSecondary_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 82px;
+	background : rgba(34.00000177323818,73.00000324845314,87.00000241398811,1);
+}
+.Navbar .ProjectBrandGuidelines_1 {
+	visibility: hidden;
+	position: absolute;
+	left: 24px;
+	top: 32px;
+	width: 304px;
+	height: 16px;
+	color : rgba(249.07833695411682,248.66042017936707,250.75000405311584,1);
+	font-family: Lato;
+	font-size: 16px;
+	font-weight: 700;
+	line-height: 16px;
+}
+.Navbar ._2020_1 {
+	position: absolute;
+	left: 1416px;
+	top: 32px;
+	width: 0px;
+	height: 16px;
+	color : rgba(249.07833695411682,248.66042017936707,250.75000405311584,1);
+	font-family: Roboto Mono;
+	font-size: 16px;
+	font-weight: 300;
+	line-height: 16px;
+}
+.Navbar .Frame382 .Frame368 .Navbar1 .Frame375 {
+	position: absolute;
+	left: 20px;
+	top: 3px;
+	width: 100px;
+	height: 75px;
+	display: flex;
+	flex-direction: column;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	box-sizing: border-box;
+}
+.Navbar .Frame382 .Frame368 .Navbar1 .Frame375 .logo {
+	position: relative;
+	top: -3px;
+    left: -15px;
+	width: 80px;
+	height: 60px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.Navbar .Frame382 .Frame368 .Navbar1 .Frame238 {
+	position: absolute;
+	left: 140px;
+	top: 29px;
+	width: 350px;
+	height: 22.294921875px;
+	display: flex;
+	box-sizing: border-box;
+}
+
+.Navbar .Frame382 .Frame368 .Navbar1 .Frame238 .Dashboard {
+	position: relative;
+	width: 180px;
+	height: 22.294921875px;
+	color : rgba(242.00000077486038,242.00000077486038,242.00000077486038,1);
+	font-family: Montserrat;
+	font-size: 18px;
+	font-weight: 700;
+	line-height: 25.739999771118164px;
+}
+
+.Navbar .Frame382 .Frame368 .Navbar1 .Frame238 .UKMUnpad_1 {
+	position: relative;
+	left: 25px;
+	width: 180px;
+	height: 22.294921875px;
+	color : rgba(242.00000077486038,242.00000077486038,242.00000077486038,1);
+	font-family: Montserrat;
+	font-size: 18px;
+	font-weight: 700;
+	line-height: 25.739999771118164px;
+}
+.Navbar .Frame382 .Frame368 .Navbar1 .Frame238 .BeritaUKM_1 {
+	position: relative;
+	left: 50px;
+	margin-right: 5px;
+	width: 180px;
+	height: 22.294921875px;
+	color : rgba(242.00000077486038,242.00000077486038,242.00000077486038,1);
+	font-family: Montserrat;
+	font-size: 18px;
+	font-weight: 700;
+	line-height: 25.739999771118164px;
+}
+.Navbar .Frame382 .Frame368 .Navbar1 .Dropdown {
+	position: absolute;
+	
+	right: -45px;
+	top: 8px;
+	width: 150px;
+	height: 150px;
+	/* display: flex;  */
+	/* padding-top: 10px;
+	padding-right: 100px;
+	padding-bottom: 10px;
+	padding-left: 10px;  */
+	/* box-sizing: border-box; */
+}
+.btn-check:focus+.btn, .btn:focus {
+	box-shadow: none;
+}
+
+.dropdown-toggle::after {
+	display: none !important; 
+  }
+
+
+.Avatar {
+	position: relative;
+	left: 0px;
+	/* bottom: 10px; */
+	width: 50px;
+	height: 50px;
+}
+
+.cover {
+	position: absolute;
+	color : rgb(21, 144, 189);
+	left: 0px;
+	/* bottom: 10px; */
+	width: 50px;
+	height: 50px;
+}
+
+.Menu {
+	position: relative;
+	/* right: 20px; */
+	margin-top: 1px;
+	margin-left: -54px;
+
+}
+
+.Navbar .Frame382 .Frame368 .Navbar1 .Dropdown2 {
+	position: absolute;
+	right: 180px;
+	top: 8px;
+	width: 150px;
+	height: 150px;
+	/* display: flex;  */
+	/* padding-top: 10px;
+	padding-right: 100px;
+	padding-bottom: 10px;
+	padding-left: 10px;  */
+	/* box-sizing: border-box; */
+}
+.Menu2 {
+	position: relative;
+	/* right: 20px; */
+	right: 20px;
+	margin-top: 10px;
+}
+
+.Navbar .Rectangle1{
+	position: absolute;
+	right: 50px;
+	top: 15px;
+	width: 120px;
+	height: 40px;
+	background-color : rgba(133, 14, 14, 0.01);
+	border-radius: 15px;
+	border: 1px solid rgba(255,255,255,1);
+	box-sizing: border-box;
+}
+
+.Navbar .Login{
+	position: relative;
+	right: 0px;
+	top: 15px;
+	width: 180px;
+	height: 10px;
+	color : rgba(242.00000077486038,242.00000077486038,242.00000077486038,1);
+	font-family: Montserrat;
+	font-size: 18px;
+	font-weight: 700;
+	line-height: 25.739999771118164px;
+}
+
+.Navbar .Rectangle2{
+	position: absolute;
+	left: 115px;
+	top: 15px;
+	width: 150px;
+	height: 40px;
+	background-color : rgba(233, 16, 16, 0.01) !important;
+	border-radius: 15px;
+	border: 1px solid rgba(255,255,255,1);
+	box-sizing: border-box;
+}
+
+.Navbar .Register{
+	position: relative;
+	/* right: -150px;
+	top: -18px; */
+	width: 180px;
+	height: 10px;
+	color : rgba(242.00000077486038,242.00000077486038,242.00000077486038,1);
+	font-family: Montserrat;
+	font-size: 18px;
+	font-weight: 700;
+	line-height: 25.739999771118164px;
+	text-align: center;
+}

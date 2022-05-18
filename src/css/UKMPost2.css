@@ -1,0 +1,54 @@
+.Row2 {
+	position: absolute;
+	/* align-self: center;
+	align-items: center; */
+	left: 125px;
+	top: 1880px;
+	width: 1000px;
+	height: 300px;
+	
+}
+
+.Row2 .Card2 {
+	position: relative;
+	width: 325px;
+	height: 350px;
+	background : rgba(34.00000177323818,73.00000324845314,87.00000241398811,1);
+	border-radius: 5px;
+}
+
+.Row2 .Card2 .Image2 {
+	position: absolute;
+	left: 28px;
+	top: 25px;
+	width: 270px;
+	height: 225px;
+	/* object-fit: cover; */
+	overflow: hidden;
+	border-radius: 5px;
+}
+
+.Row2 .Card2 .Body2 {
+	position: relative;
+	top: 0px;
+
+	width: 270px;
+	
+}
+
+.Row2 .Card2 .Body2 .Subject2{
+	position: relative;
+    left: 12px;
+    /* transform: translate(-50%); */
+    top: 250px;
+	width: 270px;
+	color : rgba(255,255,255,1);
+    text-align: center;
+	font-family: Oxygen;
+	text-decoration: underline;
+	text-decoration-color: rgba(34.00000177323818,73.00000324845314,87.00000241398811,1);
+	font-size: 24px;
+    font-weight: bolder;
+	
+}
+

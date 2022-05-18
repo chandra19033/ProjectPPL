@@ -1,0 +1,757 @@
+
+.AturPendaftaranUKM_AturPendaftaranUKM {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 1703px;
+	background : rgba(255,255,255,1);
+	border: 1px solid rgba(0,0,0,1);
+	box-sizing: border-box;
+}
+.AturPendaftaranUKM_AturPendaftaranUKM .Vectors {
+	position: absolute;
+	right: 0px;
+	top: 80px;
+	width: 100px;
+	height: 1483px;
+	mix-blend-mode: normal;
+}
+.AturPendaftaranUKM_AturPendaftaranUKM .Vectors .Vector {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100px;
+	height: 1483px;
+}
+.AturPendaftaranUKM_AturPendaftaranUKM .Vectors .Vector_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100px;
+	height: 1483px;
+}
+.AturPendaftaranUKM_AturPendaftaranUKM .Vectors_1 {
+	position: absolute;
+	left: 0px;
+	top: 80px;
+	width: 100px;
+	height: 1483px;
+	mix-blend-mode: normal;
+}
+.AturPendaftaranUKM_AturPendaftaranUKM .Vectors_1 .Vector_2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100px;
+	height: 1483px;
+}
+.AturPendaftaranUKM_AturPendaftaranUKM .Vectors_1 .Vector_3 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100px;
+	height: 1483px;
+}
+.AturPendaftaranUKM_AturPendaftaranUKM .AturPendaftaranUKM_1 {
+	position: absolute;
+	left: 50%;
+	transform:translate(-30%);
+	top: 200px;
+	width: 979px;
+	height: 60px;
+	color : rgba(0,0,0,1);
+	font-family: Oxygen;
+	font-size: 60px;
+	font-weight: 700;
+	line-height: 60px;
+}
+
+.AturPendaftaranUKM_AturPendaftaranUKM .Teks {
+	position: absolute;
+	left: 50%;
+	transform:translate(-474%);
+	top: 504px;
+	width: 100px;
+	height: 36px;
+	color : rgba(0,0,0,1);
+	font-family: Oxygen;
+	font-size: 36px;
+	font-weight: 700;
+	line-height: 36px;
+}
+.AturPendaftaranUKM_AturPendaftaranUKM .PendaftaranUKM {
+	position: absolute;
+	left: 50%;
+	transform:translate(-117%);
+	top: 320px;
+	width: 401px;
+	height: 36px;
+	color : rgba(0,0,0,1);
+	font-family: Oxygen;
+	font-size: 36px;
+	font-weight: 700;
+	line-height: 36px;
+}
+.AturPendaftaranUKM_AturPendaftaranUKM .status {
+	position: absolute;
+	left: 50%;
+	transform:translate(-95%);
+	top: 395px;
+	width: 401px;
+	height: 36px;
+	color : rgba(0,0,0,1);
+	font-family: Oxygen;
+	font-size: 36px;
+	font-weight: 700;
+	line-height: 36px;
+}
+
+
+.AturPendaftaranUKM_AturPendaftaranUKM .grup1{
+	position: absolute;
+	left: 50%;
+	transform: translate(-50%);
+}
+
+.AturPendaftaranUKM_AturPendaftaranUKM  .grup1 .Rectangle54 {
+	position: absolute;
+	left: -450px;
+	top: 582px;
+	width: 920px;
+	height: 453px;
+	border-radius: 10px;
+}
+.AturPendaftaranUKM_AturPendaftaranUKM  .grup1 .Rectangle55 {
+	position: absolute;
+	left: -370px;
+	top: 625px;
+	width: 323px;
+	height: 60px;
+	border-radius: 5px;
+}
+.AturPendaftaranUKM_AturPendaftaranUKM  .grup1 .Nama {
+	position: absolute;
+	left: -340px;
+	top: 643px;
+	width: 82px;
+	height: 24px;
+	color : rgba(0,0,0,1);
+	font-family: Oxygen;
+	font-size: 24px;
+	font-weight: 700;
+	line-height: 24px;
+}
+.AturPendaftaranUKM_AturPendaftaranUKM .grup1 .field1 {
+	position: absolute;
+	left: 20px;
+	top: 625px;
+	width: 323px;
+	height: 60px;
+	border-radius: 5px;
+	padding: 20px;
+	font-family: Oxygen;
+	font-size: 20px;
+	font-weight: bold;
+	border-color: rgba(34.00000177323818,73.00000324845314,87.00000241398811,1);
+}
+
+.AturPendaftaranUKM_AturPendaftaranUKM .grup1 .field2 {
+	position: absolute;
+	left: 20px;
+	top: 699px;
+	width: 323px;
+	height: 60px;
+	border-radius: 5px;
+	padding: 20px;
+	font-family: Oxygen;
+	font-size: 20px;
+	font-weight: bold;
+	border-color: rgba(34.00000177323818,73.00000324845314,87.00000241398811,1);
+}
+.AturPendaftaranUKM_AturPendaftaranUKM .grup1 .field3 {
+	position: absolute;
+	left: 20px;
+	top: 777px;
+	width: 323px;
+	height: 60px;
+	border-radius: 5px;
+	padding: 20px;
+	font-family: Oxygen;
+	font-size: 20px;
+	font-weight: bold;
+	border-color: rgba(34.00000177323818,73.00000324845314,87.00000241398811,1);
+}
+.AturPendaftaranUKM_AturPendaftaranUKM .grup1 .field4 {
+	position: absolute;
+	left: 20px;
+	top: 855px;
+	width: 323px;
+	height: 60px;
+	border-radius: 5px;
+	padding: 20px;
+	font-family: Oxygen;
+	font-size: 20px;
+	font-weight: bold;
+	border-color: rgba(34.00000177323818,73.00000324845314,87.00000241398811,1);
+}
+
+.AturPendaftaranUKM_AturPendaftaranUKM .grup1 .field5 {
+	position: absolute;
+	left: 20px;
+	top: 933px;
+	width: 323px;
+	height: 60px;
+	border-radius: 5px;
+	padding: 20px;
+	font-family: Oxygen;
+	font-size: 20px;
+	font-weight: bold;
+	border-color: rgba(34.00000177323818,73.00000324845314,87.00000241398811,1);
+}
+
+.AturPendaftaranUKM_AturPendaftaranUKM .grup1 .Group560 .Rectangle55_3 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 323px;
+	height: 60px;
+	border-radius: 5px;
+}
+.AturPendaftaranUKM_AturPendaftaranUKM .grup1 .Group560 ._ {
+	position: absolute;
+	left: 12px;
+	top: 11px;
+	width: 9px;
+	height: 29px;
+	color : rgba(0,0,0,1);
+	font-family: Oxygen;
+	font-size: 40px;
+	font-weight: 300;
+	line-height: 40px;
+}
+.AturPendaftaranUKM_AturPendaftaranUKM .grup1 .Rectangle55_4 {
+	position: absolute;
+	left: -370px;
+	top: 699px;
+	width: 323px;
+	height: 60px;
+	border-radius: 5px;
+}
+.AturPendaftaranUKM_AturPendaftaranUKM .grup1 .NPM {
+	position: absolute;
+	left: -340px;
+	top: 717px;
+	width: 64px;
+	height: 24px;
+	color : rgba(0,0,0,1);
+	font-family: Oxygen;
+	font-size: 24px;
+	font-weight: 700;
+	line-height: 24px;
+}
+.AturPendaftaranUKM_AturPendaftaranUKM .grup1 .Rectangle55_5 {
+	position: absolute;
+	left: -370px;
+	top: 777px;
+	width: 323px;
+	height: 60px;
+	border-radius: 5px;
+}
+.AturPendaftaranUKM_AturPendaftaranUKM .grup1 .Angkatan {
+	position: absolute;
+	left: -340px;
+	top: 795px;
+	width: 144px;
+	height: 24px;
+	color : rgba(0,0,0,1);
+	font-family: Oxygen;
+	font-size: 24px;
+	font-weight: 700;
+	line-height: 24px;
+}
+.AturPendaftaranUKM_AturPendaftaranUKM .grup1 .Rectangle55_6 {
+	position: absolute;
+	left: -370px;
+	top: 856px;
+	width: 323px;
+	height: 60px;
+	border-radius: 5px;
+}
+.AturPendaftaranUKM_AturPendaftaranUKM .grup1 .Fakultas {
+	position: absolute;
+	left: -340px;
+	top: 874px;
+	width: 130px;
+	height: 24px;
+	color : rgba(0,0,0,1);
+	font-family: Oxygen;
+	font-size: 24px;
+	font-weight: 700;
+	line-height: 24px;
+}
+.AturPendaftaranUKM_AturPendaftaranUKM .grup1 .Rectangle55_7 {
+	position: absolute;
+	left: -370px;
+	top: 932px;
+	width: 323px;
+	height: 60px;
+	border-radius: 5px;
+}
+.AturPendaftaranUKM_AturPendaftaranUKM .grup1 .Kontak {
+	position: absolute;
+	left: -340px;
+	top: 950px;
+	width: 106px;
+	height: 24px;
+	color : rgba(0,0,0,1);
+	font-family: Oxygen;
+	font-size: 24px;
+	font-weight: 700;
+	line-height: 24px;
+}
+.AturPendaftaranUKM_AturPendaftaranUKM .grup1 .button2 {
+	position: absolute;
+	left: 380px;
+	top: 699px;
+	width: 60px;
+	height: 60px;
+	border: 0px;
+	background-color: none;
+	border-radius: 10px;
+}
+.AturPendaftaranUKM_AturPendaftaranUKM .grup1 .Group561 .Rectangle56 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 59.9970703125px;
+	height: 60.0029296875px;
+	border-radius: 10px;
+}
+.AturPendaftaranUKM_AturPendaftaranUKM .Group561 .Vector_5 {
+	position: absolute;
+	left: 20.416015625px;
+	top: 20px;
+	width: 33.33496101697674%;
+	height: 33.33170580863565%;
+}
+.AturPendaftaranUKM_AturPendaftaranUKM .button3 {
+	position: absolute;
+	left: 380px;
+	top: 777px;
+	width: 60px;
+	height: 60px;
+	border: 0px;
+	background-color: none;
+	border-radius: 10px;
+}
+
+.AturPendaftaranUKM_AturPendaftaranUKM .button4 {
+	position: absolute;
+	left: 380px;
+	top: 855px;
+	width: 60px;
+	height: 60px;
+	border: 0px;
+	background-color: none;
+	border-radius: 10px;
+}
+
+.AturPendaftaranUKM_AturPendaftaranUKM .button5 {
+	position: absolute;
+	left: 380px;
+	top: 933px;
+	width: 60px;
+	height: 60px;
+	border: 0px;
+	background-color: none;
+	border-radius: 10px;
+}
+
+
+.AturPendaftaranUKM_AturPendaftaranUKM .Group565 .Rectangle56_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 60px;
+	height: 60px;
+	border-radius: 10px;
+}
+.AturPendaftaranUKM_AturPendaftaranUKM .Group565 .dashiconsyesalt {
+	position: absolute;
+	left: 18px;
+	top: 18px;
+	width: 25px;
+	height: 25px;
+}
+.AturPendaftaranUKM_AturPendaftaranUKM .Group565 .dashiconsyesalt .Vector_6 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 80%;
+	height: 80%;
+}
+.AturPendaftaranUKM_AturPendaftaranUKM .button1 {
+	position: absolute;
+	left: 380px;
+	top: 625px;
+	width: 60px;
+	height: 60px;
+	border: 0px;
+	background-color: none;
+	border-radius: 10px;
+}
+.AturPendaftaranUKM_AturPendaftaranUKM .button1 .Rectangle56_2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 60px;
+	height: 60.00390625px;
+	border-radius: 10px;
+}
+.AturPendaftaranUKM_AturPendaftaranUKM .button1 .Vector_7 {
+	position: absolute;
+	left: 20px;
+	top: 20px;
+	width: 33.33333333333333%;
+	height: 33.33116333572033%;
+}
+.AturPendaftaranUKM_AturPendaftaranUKM .Group567 {
+	position: absolute;
+	left: 290px;
+	top: 506px;
+	width: 166px;
+	height: 36.39990234375px;
+}
+.AturPendaftaranUKM_AturPendaftaranUKM .Group567 .Group301 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 166px;
+	height: 36.39990234375px;
+}
+.AturPendaftaranUKM_AturPendaftaranUKM .Group567 .Group301 .Rectangle19 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 166px;
+	height: 36.39990234375px;
+	background : rgba(0,180.00000447034836,215.0000023841858,1);
+	border-radius: 10px;
+}
+.AturPendaftaranUKM_AturPendaftaranUKM .Group567 .Group301 .Group300 {
+	position: absolute;
+	left: 46.3603515625px;
+	top: 5px;
+	width: 105.2236328125px;
+	height: 26px;
+}
+.AturPendaftaranUKM_AturPendaftaranUKM .Group567 .Group301 .Group300 .Tambah {
+	position: absolute;
+	left: 13px;
+	top: 6px;
+	width: 105.2236328125px;
+	height: 26px;
+	color : rgba(255,255,255,1);
+	font-family: Oxygen;
+	font-size: 14px;
+	font-weight: 700;
+	line-height: 14px;
+}
+.AturPendaftaranUKM_AturPendaftaranUKM .Group567 .Vector_8 {
+	position: absolute;
+	left: 33px;
+	top: 9.12548828125px;
+	width: 13.177710843373495%;
+	height: 48.02607750814922%;
+}
+.AturPendaftaranUKM_AturPendaftaranUKM .File {
+	position: absolute;
+	left: 50%;
+	transform:translate(-474%);
+	top: 1114px;
+	width: 100px;
+	height: 36px;
+	color : rgba(0,0,0,1);
+	font-family: Oxygen;
+	font-size: 36px;
+	font-weight: 700;
+	line-height: 36px;
+}
+.AturPendaftaranUKM_AturPendaftaranUKM .Rectangle55_8 {
+	position: absolute;
+	left: 50%;
+	transform: translate(-49%);
+	top: 1192px;
+	width: 920px;
+	height: 232px;
+	border-radius: 10px;
+}
+.AturPendaftaranUKM_AturPendaftaranUKM .Group570 {
+	position: absolute;
+	left: 50%;
+	transform: translate(-47%);
+	top: 1241px;
+	width: 875.9970703125px;
+	height: 134.0029296875px;
+}
+.AturPendaftaranUKM_AturPendaftaranUKM .Group570 .File1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 323px;
+	height: 60px;
+	border-radius: 5px;
+	padding: 20px;
+	font-family: Oxygen;
+	font-size: 20px;
+	font-weight: bold;
+	border-color: rgba(34.00000177323818,73.00000324845314,87.00000241398811,1);
+}
+
+.AturPendaftaranUKM_AturPendaftaranUKM .Group570 .File2 {
+	position: absolute;
+	left: 0px;
+	top: 74px;
+	width: 323px;
+	height: 60px;
+	border-radius: 5px;
+	padding: 20px;
+	font-family: Oxygen;
+	font-size: 20px;
+	font-weight: bold;
+	border-color: rgba(34.00000177323818,73.00000324845314,87.00000241398811,1);
+}
+
+.AturPendaftaranUKM_AturPendaftaranUKM .Group570 .File3 {
+	position: absolute;
+	left: 450px;
+	top: 0px;
+	width: 323px;
+	height: 60px;
+	border-radius: 5px;
+	padding: 20px;
+	font-family: Oxygen;
+	font-size: 20px;
+	font-weight: bold;
+	border-color: rgba(34.00000177323818,73.00000324845314,87.00000241398811,1);
+}
+.AturPendaftaranUKM_AturPendaftaranUKM .Group570 .File4 {
+	position: absolute;
+	left: 450px;
+	top: 74px;
+	width: 323px;
+	height: 60px;
+	border-radius: 5px;
+	padding: 20px;
+	font-family: Oxygen;
+	font-size: 20px;
+	font-weight: bold;
+	border-color: rgba(34.00000177323818,73.00000324845314,87.00000241398811,1);
+}
+
+.AturPendaftaranUKM_AturPendaftaranUKM .Group570 .Group561_1 {
+	position: absolute;
+	left: 348px;
+	top: 74px;
+	width: 59.9970703125px;
+	height: 60.0029296875px;
+}
+.AturPendaftaranUKM_AturPendaftaranUKM .Group570 .Group561_1 .Rectangle56_3 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 59.9970703125px;
+	height: 60.0029296875px;
+	border-radius: 10px;
+}
+.AturPendaftaranUKM_AturPendaftaranUKM .Group570 .button8 {
+	position: absolute;
+	left: 800px;
+	top: 0px;
+	width: 60px;
+	height: 60px;
+	border: 0px;
+	background-color: none;
+	border-radius: 10px;
+}
+.AturPendaftaranUKM_AturPendaftaranUKM .Group570 .button9 {
+	position: absolute;
+	left: 800px;
+	top: 74px;
+	width: 60px;
+	height: 60px;
+	border: 0px;
+	background-color: none;
+	border-radius: 10px;
+}
+
+.AturPendaftaranUKM_AturPendaftaranUKM .Group570 .Group565_1 .Rectangle56_4 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 59.9970703125px;
+	height: 60.0029296875px;
+	border-radius: 10px;
+}
+.AturPendaftaranUKM_AturPendaftaranUKM .Group570 .Group565_1 .dashiconsyesalt_1 {
+	position: absolute;
+	left: 18.416015625px;
+	top: 18px;
+	width: 25px;
+	height: 25px;
+}
+.AturPendaftaranUKM_AturPendaftaranUKM .Group570 .Group565_1 .dashiconsyesalt_1 .Vector_9 {
+	position: absolute;
+	left: 2.5px;
+	top: 2.5px;
+	width: 80%;
+	height: 80%;
+}
+.AturPendaftaranUKM_AturPendaftaranUKM .Group570 .button6 {
+	position: absolute;
+	left: 348px;
+	top: 0px;
+	width: 60px;
+	height: 60px;
+	border: 0px;
+	background-color: none;
+	border-radius: 10px;
+	
+}
+.AturPendaftaranUKM_AturPendaftaranUKM .Group570 .button7 {
+	position: absolute;
+	left: 348px;
+	top: 74px;
+	width: 60px;
+	height: 60px;
+	border: 0px;
+	background-color: none;
+	border-radius: 10px;
+	
+}
+
+.AturPendaftaranUKM_AturPendaftaranUKM .Group564_1 {
+	position: absolute;
+	left: 348px;
+	top: 74px;
+	width: 60px;
+	height: 60px;
+	border: 0px;
+	background-color: none;
+	border-radius: 10px;
+	
+}
+
+.AturPendaftaranUKM_AturPendaftaranUKM .Group570 .Group564_1 .Rectangle56_5 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 60px;
+	height: 60.00390625px;
+	border-radius: 10px;
+}
+.AturPendaftaranUKM_AturPendaftaranUKM .Group570 .Group564_1 .Vector_10 {
+	position: absolute;
+	left: 20.4189453125px;
+	top: 20px;
+	width: 33.33333333333333%;
+	height: 17.543859649122805%;
+}
+.AturPendaftaranUKM_AturPendaftaranUKM .Group570 .Group564_1 .Vector_11 {
+	position: absolute;
+	left: 20px;
+	top: 94px;
+	width: 33.33333333333333%;
+	height: 17.543859649122805%;
+}
+.AturPendaftaranUKM_AturPendaftaranUKM .Group569 {
+	position: absolute;
+	left: 290px;
+	top: 1116px;
+	width: 166px;
+	height: 36.39990234375px;
+}
+.AturPendaftaranUKM_AturPendaftaranUKM .Group569 .Group301_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 166px;
+	height: 36.39990234375px;
+}
+.AturPendaftaranUKM_AturPendaftaranUKM .Group569 .Group301_1 .Rectangle19_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 166px;
+	height: 36.39990234375px;
+	background : rgba(0,180.00000447034836,215.0000023841858,1);
+	border-radius: 10px;
+}
+.AturPendaftaranUKM_AturPendaftaranUKM .Group569 .Group301_1 .Group300_1 {
+	position: absolute;
+	left: 46.3603515625px;
+	top: 5px;
+	width: 105.2236328125px;
+	height: 26px;
+}
+.AturPendaftaranUKM_AturPendaftaranUKM .Group569 .Group301_1 .Group300_1 .Tambah_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 105.2236328125px;
+	height: 26px;
+	color : rgba(255,255,255,1);
+	font-family: Oxygen;
+	font-size: 14px;
+	font-weight: 700;
+	line-height: 14px;
+}
+.AturPendaftaranUKM_AturPendaftaranUKM .Group569 .Vector_12 {
+	position: absolute;
+	left: 33px;
+	top: 9.6103515625px;
+	width: 13.177710843373495%;
+	height: 48.02607750814922%;
+}
+.AturPendaftaranUKM_AturPendaftaranUKM .Rectangle57 {
+	position: absolute;
+	left: 50%;
+	transform:translate(-320%);
+	top: 390px;
+	width: 150px;
+	height: 70px;
+	/* width: 225px;
+	height: 67px;
+	background : rgba(34.00000177323818,73.00000324845314,87.00000241398811,1);
+	border-radius: 50px; */
+}
+.AturPendaftaranUKM_AturPendaftaranUKM .Rectangle57 .SwitchStatus {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+
+}
+
+
+.AturPendaftaranUKM_AturPendaftaranUKM .Ellipse4 {
+	position: absolute;
+	left: 163px;
+	top: 358px;
+	width: 60px;
+	height: 60px;
+	background : rgba(255,255,255,1);
+}
+.AturPendaftaranUKM_AturPendaftaranUKM .Aktif {
+	position: absolute;
+	left: 256px;
+	top: 376px;
+	width: 74px;
+	height: 24px;
+	color : rgba(255,255,255,1);
+	font-family: Oxygen;
+	font-size: 24px;
+	font-weight: 700;
+	line-height: 24px;
+}

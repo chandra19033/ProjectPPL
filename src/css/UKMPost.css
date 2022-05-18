@@ -1,0 +1,47 @@
+
+.UKMCol {
+    position: re;
+	width: 200px;
+	height: 364.8173828125px;
+
+}
+
+.UKMCard {
+	position: relative;
+	width: 300px;
+	height: 350px;
+    margin-bottom: 10px;
+    background : rgba(34.00000177323818,73.00000324845314,87.00000241398811,1);
+    border-color: black;
+    border-width: 3px;
+}
+
+.UKMCard .UKMImg {
+	position: relative;
+    align-items: center;
+    left: 38px;
+	top: 30px;
+	width: 225px;
+	height: 225px;
+	object-fit: cover;
+	overflow: hidden;
+	
+}
+.UKMCard .UKMName {
+	position: relative;
+	text-align: center;
+    align-self: center;
+    align-items: center;
+    top: 30px;
+    left: 8px;
+	width: 250px;
+	height: 40.09130859375px;
+	color : rgba(255,255,255,1);
+	font-family: Oxygen;
+	font-size: 22px;
+	font-weight: bold;
+	line-height: 30px;
+    text-decoration: underline;
+    text-decoration-color: rgba(34.00000177323818,73.00000324845314,87.00000241398811,1);
+    
+}

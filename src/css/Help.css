@@ -1,0 +1,243 @@
+.Help_Help {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 1100px;
+	background : rgba(255,255,255,1);
+	box-sizing: border-box;
+}
+
+.Help_Help .HC{
+	position: absolute;
+	left: 50%;
+	transform:translate(-22%);
+	top: 145px;
+	width: 800px;
+	height: 60px;
+	color : rgba(0,0,0,1);
+	font-family: Oxygen;
+	font-size: 60px;
+	font-weight: 700;
+	line-height: 60px;
+}
+
+.Help_Help .Line1 {
+	position: absolute;
+	left: 50%;
+	transform: translate(-47%);
+	top: 230px;
+	width: 750px;
+	height: 0px;
+	background : rgba(196.00000351667404,196.00000351667404,196.00000351667404,1);
+	border: 3px solid rgba(34.00000177323818,73.00000324845314,87.00000241398811,1);
+	text-align: center;
+}
+
+.Help_Help .Text{
+	position: absolute;
+	left: 50%;
+	transform:translate(-47%);
+	top: 250px;
+	width: 800px;
+	height: 60px;
+	color : rgba(0,0,0,1);
+	font-family: Oxygen;
+	font-size: 35px;
+	font-weight: 700;
+	line-height: 60px;
+    text-align: center;
+}
+
+.Help_Help .Line2 {
+	position: absolute;
+	left: 50%;
+	transform: translate(-47%);
+	top: 400px;
+	width: 750px;
+	height: 0px;
+	background : rgba(196.00000351667404,196.00000351667404,196.00000351667404,1);
+	border: 3px solid rgba(34.00000177323818,73.00000324845314,87.00000241398811,1);
+	text-align: center;
+}
+
+.Help_Help .Vectors {
+	position: absolute;
+	right: 0px;
+	top: 80px;
+	width: 100px;
+	height: 880px;
+	mix-blend-mode: normal;
+}
+.Help_Help .Vectors .Vector {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100px;
+	height: 880px;
+}
+.Help_Help .Vectors .Vector_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100px;
+	height: 880px;
+}
+.Help_Help .Vectors_1 {
+	position: absolute;
+	left: 0px;
+	top: 80px;
+	width: 100px;
+	height: 880px;
+	mix-blend-mode: normal;
+}
+.Help_Help .Vectors_1 .Vector_2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100px;
+	height: 880px;
+}
+.Help_Help .Vectors_1 .Vector_3 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100px;
+	height: 880px;
+}
+
+
+
+.Help_Help .Group309 {
+	position: absolute;
+	left: 50%;
+    transform:translate(-50%);
+	top: 460px;
+	width: 834.07080078125px;
+	height: 364.8173828125px;
+}
+.Help_Help .Group309 .Rectangle1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 400px;
+	height: 450px;
+	background : rgba(34.00000177323818,73.00000324845314,87.00000241398811,1);
+	border-radius: 5px;
+}
+.Help_Help .Group309 .Rectangle1 .carbonphonevoice {
+	position: absolute;
+	left: 0px;
+	top: 45px;
+	width: 190px;
+	height: 198px;
+}
+.Help_Help .Group309 .Rectangle1 .carbonphonevoice .Vector_6 {
+	position: absolute;
+	left: 195.59375px;
+	top: 45.25px;
+	width: 19.625%;
+	height: 19.625%;
+}
+.Help_Help .Group309 .Rectangle1 .carbonphonevoice .Vector_7 {
+	position: absolute;
+	left: 119.0582275390625px;
+	top: 12.84375px;
+	width: 81.27772604772287%;
+	height: 81.25%;
+}
+.Help_Help .Group309 .Rectangle1 .name1 {
+	position: absolute;
+	left: -30px;
+	text-align: center;
+	top: 289.93408203125px;
+	width: 465.92919921875px;
+	height: 40.09130859375px;
+	color : rgb(0, 0, 0);
+	font-family: Oxygen;
+	font-size: 30px;
+	font-weight: 700;
+	line-height: 30px;
+}
+
+.Help_Help .Group309 .Rectangle1 .npm1 {
+	position: absolute;
+	left: -30px;
+	text-align: center;
+	top: 350px;
+	width: 465.92919921875px;
+	height: 40.09130859375px;
+	color : rgb(0, 0, 0);
+	font-family: Oxygen;
+	font-size: 30px;
+	font-weight: 700;
+	line-height: 30px;
+}
+
+.Help_Help .Group309 .Rectangle2 {
+	position: absolute;
+	left: 500px;
+	top: 0px;
+	width: 400px;
+	height: 450px;
+	background : rgba(34.00000177323818,73.00000324845314,87.00000241398811,1);
+	border-radius: 5px;
+}
+
+.Help_Help .Group309 .Rectangle2 .etnewspaper {
+	position: absolute;
+	left: 120px;
+	top: 65px;
+	width: 160px;
+	height: 147px;
+}
+.Help_Help .Group309 .Rectangle2 .etnewspaper .Group_1 {
+	position: absolute;
+	left: 0.201904296875px;
+	top: 0px;
+	width: 99.75006103515625%;
+	height: 99.83425010629252%;
+}
+.Help_Help .Group309 .Rectangle2 .etnewspaper .Group_1 .Vector_6 {
+	position: absolute;
+	left: 15.0361328125px;
+	top: 0px;
+	width: 83.54208669740348%;
+	height: 90.77546022884178%;
+}
+.Help_Help .Group309 .Rectangle2 .etnewspaper .Group_1 .Vector_7 {
+	position: absolute;
+	left: 0px;
+	top: 0.24365234375px;
+	width: 100%;
+	height: 99.8343076354901%;
+}
+
+.Help_Help .Group309 .Rectangle2 .name2 {
+	position: absolute;
+	left: -30px;
+	text-align: center;
+	top: 289.93408203125px;
+	width: 465.92919921875px;
+	height: 40.09130859375px;
+	color : rgba(255,255,255,1);
+	font-family: Oxygen;
+	font-size: 30px;
+	font-weight: 700;
+	line-height: 30px;
+}
+
+.Help_Help .Group309 .Rectangle2 .npm2 {
+	position: absolute;
+	left: -30px;
+	text-align: center;
+	top: 350px;
+	width: 465.92919921875px;
+	height: 40.09130859375px;
+	color : rgba(255,255,255,1);
+	font-family: Oxygen;
+	font-size: 30px;
+	font-weight: 700;
+	line-height: 30px;
+}

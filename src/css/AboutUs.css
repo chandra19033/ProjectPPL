@@ -1,0 +1,267 @@
+.AboutUs_AboutUs {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 1500px;
+	background : rgba(255,255,255,1);
+	box-sizing: border-box;
+}
+
+.AboutUs_AboutUs .STMJ{
+	position: absolute;
+	left: 50%;
+	transform:translate(-42%);
+	top: 145px;
+	width: 800px;
+	height: 60px;
+	color : rgba(0,0,0,1);
+	font-family: Oxygen;
+	font-size: 60px;
+	font-weight: 700;
+	line-height: 60px;
+}
+
+.AboutUs_AboutUs .Vectors {
+	position: absolute;
+	right: 0px;
+	top: 80px;
+	width: 100px;
+	height: 1280px;
+	mix-blend-mode: normal;
+}
+.AboutUs_AboutUs .Vectors .Vector {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100px;
+	height: 1280px;
+}
+.AboutUs_AboutUs .Vectors .Vector_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100px;
+	height: 1280px;
+}
+.AboutUs_AboutUs .Vectors_1 {
+	position: absolute;
+	left: 0px;
+	top: 80px;
+	width: 100px;
+	height: 1280px;
+	mix-blend-mode: normal;
+}
+.AboutUs_AboutUs .Vectors_1 .Vector_2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100px;
+	height: 1280px;
+}
+.AboutUs_AboutUs .Vectors_1 .Vector_3 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100px;
+	height: 1280px;
+}
+
+
+
+.AboutUs_AboutUs .Group309 {
+	position: absolute;
+	left: 50%;
+    transform:translate(-49%);
+	top: 300px;
+	width: 834.07080078125px;
+	height: 364.8173828125px;
+}
+.AboutUs_AboutUs .Group309 .Rectangle1 {
+	position: absolute;
+	left: 50px;
+	top: 0px;
+	width: 350px;
+	height: 450px;
+	background : rgba(34.00000177323818,73.00000324845314,87.00000241398811,1);
+	border-radius: 5px;
+}
+.AboutUs_AboutUs .Group309 .Rectangle1 .image1 {
+	position: absolute;
+	left: 65px;
+	top: 30px;
+	width: 235px;
+	height: 221px;
+	object-fit: cover;
+	overflow: hidden;
+	
+}
+.AboutUs_AboutUs .Group309 .Rectangle1 .name1 {
+	position: absolute;
+	left: -55px;
+	text-align: center;
+	top: 289.93408203125px;
+	width: 465.92919921875px;
+	height: 40.09130859375px;
+	color : rgba(255,255,255,1);
+	font-family: Oxygen;
+	font-size: 30px;
+	font-weight: 700;
+	line-height: 30px;
+}
+
+.AboutUs_AboutUs .Group309 .Rectangle1 .npm1 {
+	position: absolute;
+	left: -55px;
+	text-align: center;
+	top: 350px;
+	width: 465.92919921875px;
+	height: 40.09130859375px;
+	color : rgba(255,255,255,1);
+	font-family: Oxygen;
+	font-size: 30px;
+	font-weight: 700;
+	line-height: 30px;
+}
+
+.AboutUs_AboutUs .Group309 .Rectangle2 {
+	position: absolute;
+	left: 450px;
+	top: 0px;
+	width: 350px;
+	height: 450px;
+	background : rgba(34.00000177323818,73.00000324845314,87.00000241398811,1);
+	border-radius: 5px;
+}
+.AboutUs_AboutUs .Group309 .Rectangle2 .image2 {
+	position: absolute;
+	left: 65px;
+	top: 30px;
+	width: 235px;
+	height: 221px;
+	object-fit: cover;
+	overflow: hidden;
+	
+}
+.AboutUs_AboutUs .Group309 .Rectangle2 .name2 {
+	position: absolute;
+	left: -55px;
+	text-align: center;
+	top: 289.93408203125px;
+	width: 465.92919921875px;
+	height: 40.09130859375px;
+	color : rgba(255,255,255,1);
+	font-family: Oxygen;
+	font-size: 30px;
+	font-weight: 700;
+	line-height: 30px;
+}
+
+.AboutUs_AboutUs .Group309 .Rectangle2 .npm2 {
+	position: absolute;
+	left: -55px;
+	text-align: center;
+	top: 350px;
+	width: 465.92919921875px;
+	height: 40.09130859375px;
+	color : rgba(255,255,255,1);
+	font-family: Oxygen;
+	font-size: 30px;
+	font-weight: 700;
+	line-height: 30px;
+}
+
+.AboutUs_AboutUs .Group309 .Rectangle3 {
+	position: absolute;
+	left: 50px;
+	top: 550px;
+	width: 350px;
+	height: 450px;
+	background : rgba(34.00000177323818,73.00000324845314,87.00000241398811,1);
+	border-radius: 5px;
+}
+.AboutUs_AboutUs .Group309 .Rectangle3 .image3 {
+	position: absolute;
+	left: 65px;
+	top: 30px;
+	width: 235px;
+	height: 221px;
+	object-fit: cover;
+	overflow: hidden;
+	
+}
+.AboutUs_AboutUs .Group309 .Rectangle3 .name3 {
+	position: absolute;
+	left:  -55px;
+	text-align: center;
+	top: 289.93408203125px;
+	width: 465.92919921875px;
+	height: 40.09130859375px;
+	color : rgba(255,255,255,1);
+	font-family: Oxygen;
+	font-size: 30px;
+	font-weight: 700;
+	line-height: 30px;
+}
+
+.AboutUs_AboutUs .Group309 .Rectangle3 .npm3 {
+	position: absolute;
+	left:  -55px;
+	text-align: center;
+	top: 350px;
+	width: 465.92919921875px;
+	height: 40.09130859375px;
+	color : rgba(255,255,255,1);
+	font-family: Oxygen;
+	font-size: 30px;
+	font-weight: 700;
+	line-height: 30px;
+}
+
+.AboutUs_AboutUs .Group309 .Rectangle4 {
+	position: absolute;
+	left: 450px;
+	top: 550px;
+	width: 350px;
+	height: 450px;
+	background : rgba(34.00000177323818,73.00000324845314,87.00000241398811,1);
+	border-radius: 5px;
+}
+.AboutUs_AboutUs .Group309 .Rectangle4 .image4 {
+	position: absolute;
+	left: 65px;
+	top: 30px;
+	width: 235px;
+	height: 221px;
+	object-fit: cover;
+	overflow: hidden;
+	
+}
+.AboutUs_AboutUs .Group309 .Rectangle4 .name4 {
+	position: absolute;
+	left:  -55px;
+	text-align: center;
+	top: 289.93408203125px;
+	width: 465.92919921875px;
+	height: 40.09130859375px;
+	color : rgba(255,255,255,1);
+	font-family: Oxygen;
+	font-size: 30px;
+	font-weight: 700;
+	line-height: 30px;
+}
+
+.AboutUs_AboutUs .Group309 .Rectangle4 .npm4 {
+	position: absolute;
+	left:  -55px;
+	text-align: center;
+	top: 350px;
+	width: 465.92919921875px;
+	height: 40.09130859375px;
+	color : rgba(255,255,255,1);
+	font-family: Oxygen;
+	font-size: 30px;
+	font-weight: 700;
+	line-height: 30px;
+}
